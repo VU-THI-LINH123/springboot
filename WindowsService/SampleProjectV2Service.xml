@@ -1,0 +1,10 @@
+<service>
+    <id>globits-sample-project-v2-keycloak</id> <!-- Change this -->
+    <name>globits-sample-project-v2-keycloak</name><!-- Change this -->
+    <description>globits-sample-project-v2-keycloak</description><!-- Change this -->
+    <workingdirectory>%BASE%\</workingdirectory>
+    <logpath>%BASE%\logs</logpath>
+
+    <executable>C:\Program Files\Java\jdk1.8.0_131\bin\java</executable>
+    <arguments>-Xms512m -Xmx1024m -XX:PermSize=128m -XX:MaxPermSize=128m -jar sample-project-v2-keycloak-app.jar</arguments><!-- Change this -->
+</service>

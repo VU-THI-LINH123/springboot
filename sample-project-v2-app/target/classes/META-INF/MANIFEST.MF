@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: vuthilinh
+Build-Jdk: 15.0.1
+Implementation-Title: sample-project-v2-app
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.globits
+Implementation-URL: http://maven.apache.org
+Main-Class: com.globits.SampleApplication
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,24 @@
+﻿{
+  "title": "Welcome to react using react-i18next",
+  "Name" :"Tên",
+  "Code" :"Mã",
+  "Action" :"Thao tác",
+  "Edit" :"Sửa",
+  "Delete" :"Xóa",
+  "Download": "Tải về",
+   "dashboard":{
+	"Dashboard":"Trang chủ 1",
+	"LearningManagement": "Learning Management (EN)",
+	"Analytics":"Analytics (EN)",
+	"Sales":"Sales (EN)",
+	"AdministrativeUnit":"Administrative Unit (EN)"
+   },
+   "AdministrativeUnitTable":{
+  "AddNew": "Add New Administrative Unit (English)"
+   },
+  "description": {
+    "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+    "part2": "Switch language between english and german using buttons above.",
+    "part3": "English path."
+  }
+}

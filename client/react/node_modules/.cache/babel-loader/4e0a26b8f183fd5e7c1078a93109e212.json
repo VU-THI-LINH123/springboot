@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function isNegativeZero(value) {\n  return 1 / value === -Infinity;\n}","map":null,"metadata":{},"sourceType":"module"}
