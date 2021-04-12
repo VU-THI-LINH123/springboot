@@ -3,6 +3,7 @@ class Bai1
  extends Component{
  
        state={
+	       //hjkhkj
              txtname:'',
              txtpassword:'',
              txtDesc:'',
